@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nguyen Quoc Vuong</title>
+    <link>https://nqvuong1998.github.io/tags/</link>
+    <description>Recent content in Tags on Nguyen Quoc Vuong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://nqvuong1998.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>book</title>
+      <link>https://nqvuong1998.github.io/tags/book/</link>
+      <pubDate>Sat, 13 Apr 2019 00:57:09 +0700</pubDate>
+      
+      <guid>https://nqvuong1998.github.io/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cracking</title>
+      <link>https://nqvuong1998.github.io/tags/cracking/</link>
+      <pubDate>Sat, 13 Apr 2019 01:35:36 +0700</pubDate>
+      
+      <guid>https://nqvuong1998.github.io/tags/cracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
